@@ -6,6 +6,10 @@
     --dark: #161616;
 }
 
+::selection{
+    color: #65B530;
+}
+
 .fw-medium {
     font-weight: 500 !important;
 }
